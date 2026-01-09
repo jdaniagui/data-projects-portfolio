@@ -1,11 +1,14 @@
-### _**Project Index**_
+<p align="center">
+## **Project Index**
+</p>
+
 
 _This repository serves as a landing page indexing my applied data science, machine learning, analytics engineering, business intelligence, and cloud-native projects.
 Each project is developed and published as an independent GitHub repository, with reproducible code, documentation, and clear business or research outcomes._
 
 ---
 
-## Analytics & Exploratory Data Analysis
+### Analytics & Exploratory Data Analysis_
 
 **1. Exploratory Analysis of Public Health Data**
 
