@@ -1,4 +1,4 @@
-_**Project Index**_
+### _**Project Index**_
 
 _This repository serves as a landing page indexing my applied data science, machine learning, analytics engineering, business intelligence, and cloud-native projects.
 Each project is developed and published as an independent GitHub repository, with reproducible code, documentation, and clear business or research outcomes._
