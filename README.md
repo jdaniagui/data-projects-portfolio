@@ -1,11 +1,11 @@
-**Project Index**
+_**Project Index**_
 
 _This repository serves as a landing page indexing my applied data science, machine learning, analytics engineering, business intelligence, and cloud-native projects.
 Each project is developed and published as an independent GitHub repository, with reproducible code, documentation, and clear business or research outcomes._
 
 ---
 
-##Analytics & Exploratory Data Analysis##
+## Analytics & Exploratory Data Analysis
 
 **1. Exploratory Analysis of Public Health Data**
 
@@ -21,7 +21,7 @@ Repository: health-eda-covid
 
 ---
 
-##Business Intelligence & Decision Support##
+## Business Intelligence & Decision Support
 
 **2. E-commerce Sales BI Dashboard**
 
@@ -37,9 +37,9 @@ Repository: ecommerce-bi-dashboard
 
 ---
 
-**Machine Learning (Supervised & Applied)**
+## Machine Learning (Supervised & Applied)
 
-3. Customer Churn Prediction
+**3. Customer Churn Prediction**
 
 Tools: Python (scikit-learn, XGBoost, LightGBM), R (caret), SHAP
 
@@ -51,8 +51,9 @@ Deliverables: Modeling notebook, model card, inference script, SHAP plots
 
 Repository: customer-churn-ml
 
+<br>
 
-4. Twitter Sentiment Classifier
+**4. Twitter Sentiment Classifier**
 
 Tools: Python (Transformers, spaCy), FastAPI, Docker
 
