@@ -5,9 +5,9 @@ Each project is developed and published as an independent GitHub repository, wit
 
 ---
 
-**Analytics & Exploratory Data Analysis**
+##Analytics & Exploratory Data Analysis##
 
-1. Exploratory Analysis of Public Health Data
+**1. Exploratory Analysis of Public Health Data**
 
 Tools: Python (pandas, seaborn, plotly), Jupyter, Google Sheets
 
@@ -21,9 +21,9 @@ Repository: health-eda-covid
 
 ---
 
-**Business Intelligence & Decision Support**
+##Business Intelligence & Decision Support##
 
-2. E-commerce Sales BI Dashboard
+**2. E-commerce Sales BI Dashboard**
 
 Tools: SQL (PostgreSQL / SQLite), Power BI / Tableau / Looker Studio
 
